@@ -1,1 +1,1 @@
-My first commit is going pretty good.
+My first commit.
